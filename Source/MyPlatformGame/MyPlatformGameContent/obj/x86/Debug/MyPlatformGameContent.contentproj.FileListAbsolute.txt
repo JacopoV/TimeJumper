@@ -1,0 +1,6 @@
+C:\Users\Mattia\Univr\XNA\castletrapTEMP\MyPlatformGame\MyPlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattia\GGJ\MyPlatformGame\MyPlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eve\Desktop\Gioco\MyPlatformGame\MyPlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

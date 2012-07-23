@@ -1,0 +1,1427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer0.xnb</Output>
+      <Time>2011-01-27T14:45:59.6646897+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Idle.png</Source>
+      <Name>Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2011-01-27T14:46:34.9187061+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2011-01-27T14:46:35.8017567+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2011-01-27T14:46:35.7537539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\back.png</Source>
+      <Name>Textures\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\back.xnb</Output>
+      <Time>2011-01-27T14:46:17.4957096+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\attack.png</Source>
+      <Name>Sprites\MonsterA\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\attack.xnb</Output>
+      <Time>2011-01-27T14:46:35.0027109+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\door.png</Source>
+      <Name>Sprites\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\door.xnb</Output>
+      <Time>2011-01-27T14:46:36.7638117+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\doorClose.png</Source>
+      <Name>Sprites\doorClose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\doorClose.xnb</Output>
+      <Time>2011-01-27T14:46:37.0538283+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Guill.png</Source>
+      <Name>Sprites\Guill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Guill.xnb</Output>
+      <Time>2011-01-27T14:46:36.8688177+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Thorns.png</Source>
+      <Name>Sprites\Thorns</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Thorns.xnb</Output>
+      <Time>2011-01-27T14:46:36.9108201+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\money.png</Source>
+      <Name>Sprites\money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\money.xnb</Output>
+      <Time>2011-01-27T14:46:36.961823+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\pass1.png</Source>
+      <Name>Sprites\pass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\pass1.xnb</Output>
+      <Time>2011-01-27T14:46:37.0098257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\pass2.png</Source>
+      <Name>Sprites\pass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\pass2.xnb</Output>
+      <Time>2011-01-27T14:46:37.0168261+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\pass3.png</Source>
+      <Name>Sprites\pass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\pass3.xnb</Output>
+      <Time>2011-01-27T14:46:37.0608287+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\passClose1.png</Source>
+      <Name>Sprites\passClose1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\passClose1.xnb</Output>
+      <Time>2011-01-27T14:46:36.9068199+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\passClose2.png</Source>
+      <Name>Sprites\passClose2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\passClose2.xnb</Output>
+      <Time>2011-01-27T14:46:36.9208207+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\passClose3.png</Source>
+      <Name>Sprites\passClose3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\passClose3.xnb</Output>
+      <Time>2011-01-27T14:46:36.9238208+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\poison.png</Source>
+      <Name>Sprites\poison</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\poison.xnb</Output>
+      <Time>2011-01-27T14:46:36.768812+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\star.png</Source>
+      <Name>Sprites\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\star.xnb</Output>
+      <Time>2011-01-27T14:46:36.7968136+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handle1.png</Source>
+      <Name>Sprites\handle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handle1.xnb</Output>
+      <Time>2011-01-27T14:46:36.8998195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handle2.png</Source>
+      <Name>Sprites\handle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handle2.xnb</Output>
+      <Time>2011-01-27T14:46:36.9138203+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handle3.png</Source>
+      <Name>Sprites\handle3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handle3.xnb</Output>
+      <Time>2011-01-27T14:46:36.9178205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handleExit.png</Source>
+      <Name>Sprites\handleExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handleExit.xnb</Output>
+      <Time>2011-01-27T14:46:36.9278211+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\backgroundMenu.png</Source>
+      <Name>MenuTexture\backgroundMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\backgroundMenu.xnb</Output>
+      <Time>2011-01-27T14:46:33.0265979+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\gameOverMenu.png</Source>
+      <Name>MenuTexture\gameOverMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\gameOverMenu.xnb</Output>
+      <Time>2011-01-27T14:46:33.0545995+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\you_died.png</Source>
+      <Name>Textures\you_died</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\you_died.xnb</Output>
+      <Time>2011-01-27T14:46:17.520711+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\life.png</Source>
+      <Name>Sprites\MonsterA\life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\life.xnb</Output>
+      <Time>2011-01-27T14:46:34.9277067+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\logo.png</Source>
+      <Name>MenuTexture\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\logo.xnb</Output>
+      <Time>2011-01-27T15:33:15.5988959+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\infoStory.png</Source>
+      <Name>Textures\infoStory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\infoStory.xnb</Output>
+      <Time>2011-01-27T14:46:17.4657079+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\infoStory2.jpg</Source>
+      <Name>Textures\infoStory2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\infoStory2.xnb</Output>
+      <Time>2011-01-27T14:46:17.6047158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\poisonplus.png</Source>
+      <Name>Sprites\poisonplus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\poisonplus.xnb</Output>
+      <Time>2011-01-27T14:46:36.8148146+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\jumpPlayer.png</Source>
+      <Name>Sprites\Player\jumpPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\jumpPlayer.xnb</Output>
+      <Time>2011-01-27T14:46:35.8307583+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\player.png</Source>
+      <Name>Sprites\Player\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\player.xnb</Output>
+      <Time>2011-01-27T14:46:35.7467535+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_1.png</Source>
+      <Name>Backgrounds\Layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer1.xnb</Output>
+      <Time>2011-01-27T14:45:59.6706901+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_2.png</Source>
+      <Name>Backgrounds\Layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer2.xnb</Output>
+      <Time>2011-01-27T14:45:59.6766904+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage0.jpg</Source>
+      <Name>Textures\storyImage0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage0.xnb</Output>
+      <Time>2011-01-27T14:46:17.4877091+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage1.jpg</Source>
+      <Name>Textures\storyImage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage1.xnb</Output>
+      <Time>2011-01-27T14:46:17.5057102+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage2.jpg</Source>
+      <Name>Textures\storyImage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage2.xnb</Output>
+      <Time>2011-01-27T14:46:17.5297115+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage3.jpg</Source>
+      <Name>Textures\storyImage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage3.xnb</Output>
+      <Time>2011-01-27T14:46:17.5397121+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage4.JPG</Source>
+      <Name>Textures\storyImage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage4.xnb</Output>
+      <Time>2011-01-27T14:46:17.5477126+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage5.png</Source>
+      <Name>Textures\storyImage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage5.xnb</Output>
+      <Time>2011-01-27T14:46:17.5937152+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\levelMenu.png</Source>
+      <Name>MenuTexture\levelMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\levelMenu.xnb</Output>
+      <Time>2011-01-27T14:46:32.9175917+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block0.png</Source>
+      <Name>Tiles\block0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block0.xnb</Output>
+      <Time>2011-01-27T14:45:57.2905539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block2.png</Source>
+      <Name>Tiles\block2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block2.xnb</Output>
+      <Time>2011-01-27T14:45:57.2985544+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block3.png</Source>
+      <Name>Tiles\block3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block3.xnb</Output>
+      <Time>2011-01-27T14:45:57.3015546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block4.png</Source>
+      <Name>Tiles\block4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block4.xnb</Output>
+      <Time>2011-01-27T14:45:57.3045547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block5.png</Source>
+      <Name>Tiles\block5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block5.xnb</Output>
+      <Time>2011-01-27T14:45:57.308555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block6.png</Source>
+      <Name>Tiles\block6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block6.xnb</Output>
+      <Time>2011-01-27T14:45:57.3125552+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block7.png</Source>
+      <Name>Tiles\block7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block7.xnb</Output>
+      <Time>2011-01-27T14:45:57.3155554+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block8.png</Source>
+      <Name>Tiles\block8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block8.xnb</Output>
+      <Time>2011-01-27T14:45:57.3185555+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block1.png</Source>
+      <Name>Tiles\block1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block1.xnb</Output>
+      <Time>2011-01-27T14:45:57.2935541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage6.jpg</Source>
+      <Name>Textures\storyImage6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage6.xnb</Output>
+      <Time>2011-01-27T14:46:17.5567131+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage7.jpg</Source>
+      <Name>Textures\storyImage7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage7.xnb</Output>
+      <Time>2011-01-27T14:46:17.5687138+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage8.jpg</Source>
+      <Name>Textures\storyImage8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage8.xnb</Output>
+      <Time>2011-01-27T14:46:17.5757142+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_3.png</Source>
+      <Name>Backgrounds\Layer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer3.xnb</Output>
+      <Time>2011-01-27T14:45:59.6816907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_4.png</Source>
+      <Name>Backgrounds\Layer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer4.xnb</Output>
+      <Time>2011-01-27T14:45:59.6946914+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_5.png</Source>
+      <Name>Backgrounds\Layer5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer5.xnb</Output>
+      <Time>2011-01-27T14:45:59.6996917+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_6.png</Source>
+      <Name>Backgrounds\Layer6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer6.xnb</Output>
+      <Time>2011-01-27T14:45:59.7066921+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_7.png</Source>
+      <Name>Backgrounds\Layer7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer7.xnb</Output>
+      <Time>2011-01-27T14:45:59.7136925+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_8.png</Source>
+      <Name>Backgrounds\Layer8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer8.xnb</Output>
+      <Time>2011-01-27T14:45:59.7186928+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\invulnerability.png</Source>
+      <Name>Sprites\Player\invulnerability</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\invulnerability.xnb</Output>
+      <Time>2011-01-27T14:46:35.7607543+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\attackFireLess.png</Source>
+      <Name>Sprites\Player\attackFireLess</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\attackFireLess.xnb</Output>
+      <Time>2011-01-27T14:46:35.8087571+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\fire.png</Source>
+      <Name>Sprites\Player\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\fire.xnb</Output>
+      <Time>2011-01-27T14:46:35.8227579+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handle1Idle.png</Source>
+      <Name>Sprites\handle1Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handle1Idle.xnb</Output>
+      <Time>2011-01-27T14:46:36.8018139+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handle2Idle.png</Source>
+      <Name>Sprites\handle2Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handle2Idle.xnb</Output>
+      <Time>2011-01-27T14:46:36.8578171+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\handle3Idle.png</Source>
+      <Name>Sprites\handle3Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\handle3Idle.xnb</Output>
+      <Time>2011-01-27T14:46:36.9038197+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GoldStatic.png</Source>
+      <Name>Sprites\GoldStatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\GoldStatic.xnb</Output>
+      <Time>2011-01-27T14:46:36.7588114+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\RunEnemy.png</Source>
+      <Name>Sprites\MonsterA\RunEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\RunEnemy.xnb</Output>
+      <Time>2011-01-27T14:46:34.9577084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\dieEnemy.png</Source>
+      <Name>Sprites\MonsterA\dieEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\dieEnemy.xnb</Output>
+      <Time>2011-01-27T14:46:34.9237064+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterGreen\attack.png</Source>
+      <Name>Sprites\MonsterGreen\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterGreen\attack.xnb</Output>
+      <Time>2011-01-27T14:46:36.5988022+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterGreen\dienemy.png</Source>
+      <Name>Sprites\MonsterGreen\dienemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterGreen\dienemy.xnb</Output>
+      <Time>2011-01-27T14:46:36.6038025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterGreen\Idle.png</Source>
+      <Name>Sprites\MonsterGreen\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterGreen\Idle.xnb</Output>
+      <Time>2011-01-27T14:46:36.4927962+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterGreen\run.png</Source>
+      <Name>Sprites\MonsterGreen\run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterGreen\run.xnb</Output>
+      <Time>2011-01-27T14:46:36.5017967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterYellow\attack.png</Source>
+      <Name>Sprites\MonsterYellow\attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterYellow\attack.xnb</Output>
+      <Time>2011-01-27T14:46:34.7296953+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterYellow\dienemy.png</Source>
+      <Name>Sprites\MonsterYellow\dienemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterYellow\dienemy.xnb</Output>
+      <Time>2011-01-27T14:46:34.7366957+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterYellow\Idle.png</Source>
+      <Name>Sprites\MonsterYellow\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterYellow\Idle.xnb</Output>
+      <Time>2011-01-27T14:46:34.6996936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterYellow\run.png</Source>
+      <Name>Sprites\MonsterYellow\run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterYellow\run.xnb</Output>
+      <Time>2011-01-27T14:46:34.7146945+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\hit.png</Source>
+      <Name>Sprites\MonsterA\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\hit.xnb</Output>
+      <Time>2011-01-27T14:46:34.9937104+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterGreen\hit.png</Source>
+      <Name>Sprites\MonsterGreen\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterGreen\hit.xnb</Output>
+      <Time>2011-01-27T14:46:36.4967964+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterYellow\hit.png</Source>
+      <Name>Sprites\MonsterYellow\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterYellow\hit.xnb</Output>
+      <Time>2011-01-27T14:46:34.7076941+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\hit.png</Source>
+      <Name>Sprites\Player\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\Player\hit.xnb</Output>
+      <Time>2011-01-27T14:46:35.8157575+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\backgroundHelpMenu.png</Source>
+      <Name>MenuTexture\backgroundHelpMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\backgroundHelpMenu.xnb</Output>
+      <Time>2011-01-27T14:46:32.9545938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\enemyJustDie.png</Source>
+      <Name>Sprites\MonsterA\enemyJustDie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterA\enemyJustDie.xnb</Output>
+      <Time>2011-01-27T14:46:34.9987107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterGreen\enemyJustDie.png</Source>
+      <Name>Sprites\MonsterGreen\enemyJustDie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterGreen\enemyJustDie.xnb</Output>
+      <Time>2011-01-27T14:46:36.593802+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterYellow\enemyJustDie.png</Source>
+      <Name>Sprites\MonsterYellow\enemyJustDie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sprites\MonsterYellow\enemyJustDie.xnb</Output>
+      <Time>2011-01-27T14:46:34.7226949+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_10.png</Source>
+      <Name>Backgrounds\Layer10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer10.xnb</Output>
+      <Time>2011-01-27T14:45:59.616687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_11.png</Source>
+      <Name>Backgrounds\Layer11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer11.xnb</Output>
+      <Time>2011-01-27T14:45:59.6206872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_12.png</Source>
+      <Name>Backgrounds\Layer12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer12.xnb</Output>
+      <Time>2011-01-27T14:45:59.6256875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_13.png</Source>
+      <Name>Backgrounds\Layer13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer13.xnb</Output>
+      <Time>2011-01-27T14:45:59.6316878+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_14.png</Source>
+      <Name>Backgrounds\Layer14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer14.xnb</Output>
+      <Time>2011-01-27T14:45:59.6356881+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_15.png</Source>
+      <Name>Backgrounds\Layer15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer15.xnb</Output>
+      <Time>2011-01-27T14:45:59.6406884+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_16.png</Source>
+      <Name>Backgrounds\Layer16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer16.xnb</Output>
+      <Time>2011-01-27T14:45:59.6476888+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_17.png</Source>
+      <Name>Backgrounds\Layer17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer17.xnb</Output>
+      <Time>2011-01-27T14:45:59.652689+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_18.png</Source>
+      <Name>Backgrounds\Layer18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer18.xnb</Output>
+      <Time>2011-01-27T14:45:59.6596894+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_9.png</Source>
+      <Name>Backgrounds\Layer9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Backgrounds\Layer9.xnb</Output>
+      <Time>2011-01-27T14:45:59.722693+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage10.jpg</Source>
+      <Name>Textures\storyImage10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage10.xnb</Output>
+      <Time>2011-01-27T14:46:17.6177166+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\storyImage9.jpg</Source>
+      <Name>Textures\storyImage9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\storyImage9.xnb</Output>
+      <Time>2011-01-27T14:46:17.5847147+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block10.png</Source>
+      <Name>Tiles\block10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block10.xnb</Output>
+      <Time>2011-01-27T14:45:57.3305562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block11.png</Source>
+      <Name>Tiles\block11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block11.xnb</Output>
+      <Time>2011-01-27T14:45:57.2135495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block12.png</Source>
+      <Name>Tiles\block12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block12.xnb</Output>
+      <Time>2011-01-27T14:45:57.2265503+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block13.png</Source>
+      <Name>Tiles\block13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block13.xnb</Output>
+      <Time>2011-01-27T14:45:57.2375509+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block14.png</Source>
+      <Name>Tiles\block14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block14.xnb</Output>
+      <Time>2011-01-27T14:45:57.2435512+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block15.png</Source>
+      <Name>Tiles\block15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block15.xnb</Output>
+      <Time>2011-01-27T14:45:57.2685527+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block16.png</Source>
+      <Name>Tiles\block16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block16.xnb</Output>
+      <Time>2011-01-27T14:45:57.2725529+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block17.png</Source>
+      <Name>Tiles\block17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block17.xnb</Output>
+      <Time>2011-01-27T14:45:57.2755531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block18.png</Source>
+      <Name>Tiles\block18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block18.xnb</Output>
+      <Time>2011-01-27T14:45:57.2805534+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block19.png</Source>
+      <Name>Tiles\block19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block19.xnb</Output>
+      <Time>2011-01-27T14:45:57.2835535+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block20.png</Source>
+      <Name>Tiles\block20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block20.xnb</Output>
+      <Time>2011-01-27T14:45:57.2165497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block21.png</Source>
+      <Name>Tiles\block21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block21.xnb</Output>
+      <Time>2011-01-27T14:45:57.2205499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block22.png</Source>
+      <Name>Tiles\block22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block22.xnb</Output>
+      <Time>2011-01-27T14:45:57.2335507+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block23.png</Source>
+      <Name>Tiles\block23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block23.xnb</Output>
+      <Time>2011-01-27T14:45:57.2405511+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block24.png</Source>
+      <Name>Tiles\block24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block24.xnb</Output>
+      <Time>2011-01-27T14:45:57.2475515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\block9.png</Source>
+      <Name>Tiles\block9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Tiles\block9.xnb</Output>
+      <Time>2011-01-27T14:45:57.3225558+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\backgroundEndMenuWin.png</Source>
+      <Name>MenuTexture\backgroundEndMenuWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\backgroundEndMenuWin.xnb</Output>
+      <Time>2011-01-27T14:46:33.044599+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTexture\credits.png</Source>
+      <Name>MenuTexture\credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\MenuTexture\credits.xnb</Output>
+      <Time>2011-01-27T14:46:32.9705947+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\infoStoryDown.png</Source>
+      <Name>Textures\infoStoryDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\infoStoryDown.xnb</Output>
+      <Time>2011-01-27T14:46:17.6227169+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\infoStoryTop.png</Source>
+      <Name>Textures\infoStoryTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Textures\infoStoryTop.xnb</Output>
+      <Time>2011-01-27T14:46:17.6107162+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Fonts\Hud.xnb</Output>
+      <Time>2011-01-27T14:46:34.1926646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\levelFont.spritefont</Source>
+      <Name>Fonts\levelFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Fonts\levelFont.xnb</Output>
+      <Time>2011-01-27T14:46:34.1886644+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\storyFont.spritefont</Source>
+      <Name>Fonts\storyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Fonts\storyFont.xnb</Output>
+      <Time>2011-01-27T14:46:34.1136601+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menuFont.spritefont</Source>
+      <Name>Fonts\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Fonts\menuFont.xnb</Output>
+      <Time>2011-01-27T14:46:34.1176603+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gameOverFont.spritefont</Source>
+      <Name>Fonts\gameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Fonts\gameOverFont.xnb</Output>
+      <Time>2011-01-27T14:46:34.1426618+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GemCollected.wma</Source>
+      <Name>Sounds\GemCollected</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\GemCollected.xnb</Output>
+      <Time>2011-01-27T14:50:37.9296056+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MonsterKilled.wma</Source>
+      <Name>Sounds\MonsterKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\MonsterKilled.xnb</Output>
+      <Time>2011-01-27T14:50:37.8566014+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerFall.wma</Source>
+      <Name>Sounds\PlayerFall</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2011-01-27T14:50:38.2736252+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerJump.wma</Source>
+      <Name>Sounds\PlayerJump</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2011-01-27T14:50:37.937606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.wma</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2011-01-27T14:50:37.9126046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PowerUp.wma</Source>
+      <Name>Sounds\PowerUp</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\PowerUp.xnb</Output>
+      <Time>2011-01-27T14:50:37.8045984+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ExitReached.wma</Source>
+      <Name>Sounds\ExitReached</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\ExitReached.xnb</Output>
+      <Time>2011-01-27T17:00:57.7448734+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\door.wav</Source>
+      <Name>Sounds\door</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\door.xnb</Output>
+      <Time>2011-01-27T14:50:37.866602+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\openDoor.wav</Source>
+      <Name>Sounds\openDoor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\openDoor.xnb</Output>
+      <Time>2011-01-27T14:50:37.6355888+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Menu\click.wav</Source>
+      <Name>Sounds\Menu\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\Menu\click.xnb</Output>
+      <Time>2011-01-27T14:47:47.1918399+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Menu\songMenu.wav</Source>
+      <Name>Sounds\Menu\songMenu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\Menu\songMenu.xnb</Output>
+      <Time>2011-01-27T14:47:47.2308422+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\songGame0.wav</Source>
+      <Name>Sounds\songGame0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\songGame0.xnb</Output>
+      <Time>2011-01-27T14:50:38.1226166+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\songStory0.wav</Source>
+      <Name>Sounds\songStory0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\songStory0.xnb</Output>
+      <Time>2011-01-27T14:50:37.7845973+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\attack.wav</Source>
+      <Name>Sounds\attack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\attack.xnb</Output>
+      <Time>2011-01-27T14:50:37.9056042+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\poison.WAV</Source>
+      <Name>Sounds\poison</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\poison.xnb</Output>
+      <Time>2011-01-27T14:50:37.8736024+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\songGame1.wav</Source>
+      <Name>Sounds\songGame1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\songGame1.xnb</Output>
+      <Time>2011-01-27T14:50:38.2666248+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\songGame2.wav</Source>
+      <Name>Sounds\songGame2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\songGame2.xnb</Output>
+      <Time>2011-01-27T14:50:38.4586358+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\songGame3.wav</Source>
+      <Name>Sounds\songGame3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Sounds\songGame3.xnb</Output>
+      <Time>2011-01-27T14:50:37.5375831+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level0.dena</Source>
+      <Name>Level\level0</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level0.xnb</Output>
+      <Time>2011-01-27T14:46:33.8786467+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level1.dena</Source>
+      <Name>Level\level1</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level1.xnb</Output>
+      <Time>2011-01-27T14:46:33.8826469+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level10.dena</Source>
+      <Name>Level\level10</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level10.xnb</Output>
+      <Time>2011-01-27T14:46:33.8856471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level11.dena</Source>
+      <Name>Level\level11</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level11.xnb</Output>
+      <Time>2011-01-27T14:46:33.3836183+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level12.dena</Source>
+      <Name>Level\level12</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level12.xnb</Output>
+      <Time>2011-01-27T14:46:33.8466448+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level2.dena</Source>
+      <Name>Level\level2</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level2.xnb</Output>
+      <Time>2011-01-27T14:46:33.3856185+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level3.dena</Source>
+      <Name>Level\level3</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level3.xnb</Output>
+      <Time>2011-01-27T14:46:33.8526452+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level4.dena</Source>
+      <Name>Level\level4</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level4.xnb</Output>
+      <Time>2011-01-27T14:46:33.8566454+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level5.dena</Source>
+      <Name>Level\level5</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level5.xnb</Output>
+      <Time>2011-01-27T14:46:33.8606456+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level6.dena</Source>
+      <Name>Level\level6</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level6.xnb</Output>
+      <Time>2011-01-27T14:46:33.8636458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level7.dena</Source>
+      <Name>Level\level7</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level7.xnb</Output>
+      <Time>2011-01-27T14:46:33.867646+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level8.dena</Source>
+      <Name>Level\level8</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level8.xnb</Output>
+      <Time>2011-01-27T14:46:33.8716463+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\level9.dena</Source>
+      <Name>Level\level9</Name>
+      <Importer>ContentImporter</Importer>
+      <Processor>ContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\Level\level9.xnb</Output>
+      <Time>2011-01-27T14:46:33.8746464+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGameContent\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\MyPlatformGame\MyPlatformGame\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Mattia\Univr\XNA\Castle Trap v1.0\LevelPipeline\bin\x86\Debug\LevelPipeline.dll</Key>
+        <Value>2011-01-28T15:15:38.782441+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-27T15:04:07.1697166+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

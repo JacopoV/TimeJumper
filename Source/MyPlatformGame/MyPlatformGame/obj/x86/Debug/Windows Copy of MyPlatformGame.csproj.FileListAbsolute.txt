@@ -1,0 +1,184 @@
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\MyPlatformGame.Resources.Strings.resources
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\back.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\doorClose.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Guill.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Thorns.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\pass1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\pass2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\pass3.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\passClose1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\passClose2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\passClose3.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\handle1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\handle2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\handle3.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\backgroundMenu.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\jumpPlayer.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\player.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad3.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad4.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad5.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\MonsterA\RunEnemy.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\credits.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Particles\explosion.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Particles\smoke.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_future_bkg.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_future_bkg1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_present_bkg.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_present_bkg1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\fulmine.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\portal.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-2a.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-2b.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\level_complete.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\Level_to_do.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\game_complete.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\levels.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\LOOSE.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\WIN.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\BACK_MENU.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\storyImage0.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\HUD.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-2c.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad0.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\tutorial.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad6.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\levelFont.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\storyFont.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\gameOverFont.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\door.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\openDoor.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\Menu\click.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\h1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\h2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\refull-time.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\s1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\s2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\Menu\menu.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\badSwitch.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\goodSwitch.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level0.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level1.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level2.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level3.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level6.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level5.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level4.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Effects\Tone.xnb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\MyPlatformGame.exe
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\MyPlatformGame.pdb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\LevelData.dll
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\bin\x86\Debug\LevelData.pdb
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\MyPlatformGame.exe
+C:\Users\Eve\Desktop\Nuova cartella (2)\MyPlatformGame\MyPlatformGame\obj\x86\Debug\MyPlatformGame.pdb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\back.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\doorClose.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Guill.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Thorns.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\pass1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\pass2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\pass3.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\passClose1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\passClose2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\passClose3.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\handle1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\handle2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\handle3.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\backgroundMenu.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\jumpPlayer.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\Player\player.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad3.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad4.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad5.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\MonsterA\RunEnemy.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\credits.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Particles\explosion.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Particles\smoke.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_future_bkg.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_future_bkg1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_present_bkg.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\skyline_present_bkg1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\fulmine.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sprites\portal.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-2a.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-2b.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\level_complete.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\Level_to_do.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\game_complete.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\MenuTexture\levels.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\LOOSE.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\WIN.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\BACK_MENU.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\storyImage0.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\HUD.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Tiles\block0-2c.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad0.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Backgrounds\tutorial.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Textures\levelBad6.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\Hud.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\levelFont.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\storyFont.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\menuFont.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Fonts\gameOverFont.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\GemCollected.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\ExitReached.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\door.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\openDoor.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\Menu\click.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\h1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\h2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\refull-time.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\s1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\s2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\Menu\menu.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\badSwitch.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Sounds\goodSwitch.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level0.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level1.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level2.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level3.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level6.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level5.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Level\level4.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Content\Effects\Tone.xnb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Time Jumper.exe.manifest
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Time Jumper.application
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Time Jumper.exe
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\Time Jumper.pdb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\LevelData.dll
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\bin\x86\Debug\LevelData.pdb
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\MyPlatformGame.Resources.Strings.resources
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\Time Jumper.exe.manifest
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\Time Jumper.application
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\Time Jumper.exe
+C:\Users\Mattia\Desktop\TimeJumperSource\MyPlatformGame\MyPlatformGame\obj\x86\Debug\Time Jumper.pdb

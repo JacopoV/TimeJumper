@@ -1,0 +1,7 @@
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\bin\x86\Debug\LevelPipeline.dll
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\bin\x86\Debug\LevelPipeline.pdb
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\bin\x86\Debug\LevelData.dll
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\bin\x86\Debug\LevelData.pdb
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\obj\x86\Debug\LevelPipeline.dll
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelPipeline\obj\x86\Debug\LevelPipeline.pdb

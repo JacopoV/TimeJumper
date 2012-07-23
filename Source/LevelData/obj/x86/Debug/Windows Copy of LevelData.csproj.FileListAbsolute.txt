@@ -1,0 +1,12 @@
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelData\bin\x86\Debug\LevelData.dll
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelData\bin\x86\Debug\LevelData.pdb
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelData\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelData\obj\x86\Debug\LevelData.dll
+C:\Users\Eve\Desktop\Nuova cartella (2)\LevelData\obj\x86\Debug\LevelData.pdb
+C:\Users\Mattia\Desktop\TimeJumperSource\LevelData\bin\x86\Debug\LevelData.dll
+C:\Users\Mattia\Desktop\TimeJumperSource\LevelData\bin\x86\Debug\LevelData.pdb
+C:\Users\Mattia\Desktop\TimeJumperSource\LevelData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mattia\Desktop\TimeJumperSource\LevelData\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mattia\Desktop\TimeJumperSource\LevelData\obj\x86\Debug\LevelData.dll
+C:\Users\Mattia\Desktop\TimeJumperSource\LevelData\obj\x86\Debug\LevelData.pdb
